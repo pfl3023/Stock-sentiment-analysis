@@ -27,7 +27,7 @@ scikit-learn for model evaluation and ensemble methods.<br>
 <b>Results:</b><br>
 The project aims to achieve high accuracy in predicting sentiment from news articles, thereby providing insights into potential stock market trends. Results of model evaluation, including AUC-ROC curves and classification metrics, will be detailed in the notebook and summarized in report.<br>
 
-<b>Future Enhancements:<b><br>
+<b>Future Enhancements:</b><br>
 Future iterations of this project could include-<br>
 Incorporating more sophisticated NLP techniques for sentiment analysis.<br>
 Expanding the scope of scraped sources to include social media platforms.<br>
